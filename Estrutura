@@ -1,0 +1,25 @@
+Estilos
+
+static
+    - css
+        - style.css
+
+Paginas
+
+templates
+    - base.html
+    - home.html
+    - page1.html
+    - page2.html
+
+aplicativo
+
+app.py
+
+requirements.txt
+
+    - flask
+
+    command baixar 
+
+    pip install -r requirements.txt

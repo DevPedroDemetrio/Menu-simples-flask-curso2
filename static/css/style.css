@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+}
+
+.menu-lateral{
+    width: 300px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    height: 100vh;
+}
+
+.content{
+    flex-grow: 1;
+    padding: 10px;
+}
+.menu-lateral ul{
+    list-style-type: none;
+    padding: 0;
+}
+.menu-lateral ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 20px 0;
+}
